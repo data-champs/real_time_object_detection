@@ -1,0 +1,2 @@
+# real_time_object_detection
+Making a general object detection model(pretrained) such that it can be used in flutter applications and other web application calling the model via api(restful).  Object detection models seek to identify the presence of relevant objects in images and classify those objects into relevant classes.  Basic Approach:- Our basic approach was converting a pre-trained yolov5 object detection model .
